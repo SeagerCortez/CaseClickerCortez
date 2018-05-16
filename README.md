@@ -1,3 +1,4 @@
-# CaseClicker
-Just another...Normal...Version
-By Seager
+# Cortez Clicker
+Original by kfcjamal,
+edited version by Seager,
+No Cobble
